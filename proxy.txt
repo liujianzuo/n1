@@ -1,449 +1,100 @@
 proxies:
-- {"name":"Pool__01","server":"89.187.163.215","type":"ss","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Relay_-🇹🇼TW_14","server":"p5.22332e.com","type":"ssr","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Pool__13","server":"143.244.42.71","type":"ss","port":31572,"udp":true,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool__02","server":"185.38.150.124","type":"ss","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool__03","server":"185.44.76.188","type":"ss","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"Pool__04","server":"185.44.76.188","type":"ss","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool__06","server":"195.47.194.42","type":"ss","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool__11","server":"91.90.123.155","type":"ss","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"_12","server":"51.195.62.220","type":"ss","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool__07","server":"85.10.50.164","type":"ss","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool__08","server":"85.10.50.164","type":"ss","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool__09","server":"91.90.121.163","type":"ss","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool__10","server":"193.29.106.197","type":"ss","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":" |13.18Mb","server":"221.228.99.37","type":"ss","port":8888,"udp":true,"password":"123","cipher":"aes-256-cfb"}
-- {"name":"Pool__52 |11.88Mb","server":"118.107.244.114","type":"ss","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-- {"name":"_51 |10.93Mb","server":"118.107.244.113","type":"ss","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-- {"name":"Relay_ |16.59Mb","server":"ss.fr.sshmax.net","type":"ss","port":1443,"udp":true,"password":"6nhHHuGHw2D5","cipher":"chacha20-ietf-poly1305"}
-- {"name":" |24.41Mb","server":"146.59.3.33","type":"ss","port":1443,"udp":true,"password":"M1LCZAlfz1bV","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool__17 |21.87Mb","server":"104.200.131.165","type":"ss","port":33992,"udp":true,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.57Mb","server":"91.90.123.115","type":"ss","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.54Mb","server":"91.90.123.115","type":"ss","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |12.60Mb","server":"91.90.123.115","type":"ss","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |13.55Mb","server":"91.90.123.115","type":"ss","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":" |17.41Mb","server":"78.47.94.207","type":"ss","port":35139,"password":"vcFINAQlgqZZ","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.63Mb","server":"91.90.123.115","type":"ss","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.12Mb","server":"91.90.123.115","type":"ss","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.74Mb","server":"91.90.123.115","type":"ss","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |13.46Mb","server":"91.90.123.115","type":"ss","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |13.25Mb","server":"91.90.123.115","type":"ss","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.20Mb","server":"91.90.123.115","type":"ss","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |10.56Mb","server":"85.10.50.164","type":"ss","port":39772,"udp":true,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.91Mb","server":"91.90.123.115","type":"ss","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.00Mb","server":"85.10.50.164","type":"ss","port":40093,"udp":true,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Relay_ |11.69Mb","server":"78.47.219.86","type":"ss","port":35139,"password":"vcFINAQlgqZZ","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.60Mb","server":"91.90.123.115","type":"ss","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.96Mb","server":"91.90.123.115","type":"ss","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
-- {"name":"Relay_-🇨🇦CA_80 |14.52Mb","server":"ssr3.ssrsub.one","type":"ss","port":57481,"udp":true,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb"}
-- {"name":"Pool_ |14.92Mb","server":"91.90.121.163","type":"ss","port":31572,"udp":true,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool__15 |12.52Mb","server":"139.28.176.53","type":"ss","port":31572,"udp":true,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |12.23Mb","server":"45.134.224.15","type":"ss","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |10.65Mb","server":"45.134.224.15","type":"ss","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Relay_ |42.26Mb","server":"ss.id.sshmax.net","type":"ss","port":57478,"udp":true,"password":"ku382YXK8cLE","cipher":"chacha20-ietf-poly1305"}
-- {"name":" |10.35Mb","server":"193.32.210.230","type":"ss","port":35870,"password":"VFqcjsifsjyC","cipher":"aes-256-gcm"}
-- {"name":" |22.33Mb","server":"208.78.41.198","type":"ss","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool__239 |29.51Mb","server":"82.102.26.117","type":"ss","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |16.69Mb","server":"82.102.26.117","type":"ss","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
-- {"name":"Pool__240 |18.36Mb","server":"82.102.26.117","type":"ss","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |12.99Mb","server":"82.102.26.117","type":"ss","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"Pool__243 |12.78Mb","server":"82.102.26.117","type":"ss","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
-- {"name":"Pool__252 |12.41Mb","server":"82.102.26.117","type":"ss","port":45746,"password":"wEsFcHCvbL4eJkL4DZQa7RgR","cipher":"aes-256-gcm"}
-- {"name":"Pool__241 |25.18Mb","server":"82.102.26.117","type":"ss","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |13.17Mb","server":"82.102.26.117","type":"ss","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
-- {"name":" |17.24Mb","server":"193.9.114.34","type":"ss","country":"🇧🇪BE","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_ |15.19Mb","server":"ss3.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_ |15.39Mb","server":"ssr5.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Relay_ |18.48Mb","server":"ss4.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_ |16.47Mb","server":"ss5.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_ |18.24Mb","server":"ssr4.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":" |14.01Mb","server":"51.79.64.57","type":"ss","country":"🇨🇦CA","port":1443,"password":"r4TeEt5bK0UD","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇫🇷FR_1508 |21.57Mb","server":"51.75.141.238","type":"ss","country":"🇫🇷FR","port":1443,"password":"6nhHHuGHw2D5","cipher":"chacha20-ietf-poly1305"}
-- {"name":" |12.32Mb","server":"51.195.149.30","type":"ss","country":"🇫🇷FR","port":1443,"password":"JSvsHhHYIuVG","cipher":"chacha20-ietf-poly1305"}
-- {"name":" |18.42Mb","server":"51.89.99.59","type":"ss","country":"🇫🇷FR","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":" |22.81Mb","server":"51.195.62.220","type":"ss","country":"🇫🇷FR","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":" |22.82Mb","server":"51.195.62.220","type":"ss","country":"🇫🇷FR","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":" |19.18Mb","server":"51.195.149.30","type":"ss","country":"🇫🇷FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_ |11.09Mb","server":"185.44.76.188","type":"ss","country":"🇬🇧GB","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.25Mb","server":"185.38.150.124","type":"ss","country":"🇬🇧GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇮🇩ID_2234 |31.45Mb","server":"103.93.56.151","type":"ss","country":"🇮🇩ID","port":57478,"password":"ku382YXK8cLE","cipher":"chacha20-ietf-poly1305"}
-- {"name":" |16.68Mb","server":"47.240.46.71","type":"ss","country":"🇭🇰HK","port":444,"password":"aliskrskr","cipher":"aes-256-cfb"}
-- {"name":"Pool_ |17.96Mb","server":"165.231.253.165","type":"ss","country":"🇮🇳IN","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |29.25Mb","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |39.23Mb","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |17.90Mb","server":"165.231.253.165","type":"ss","country":"🇮🇳IN","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |31.50Mb","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Relay_ |13.89Mb","server":"ss.linn.ink","type":"ss","country":"🇯🇵JP","port":20040,"password":"39341fe7-b8b7-4605-a811-af1f1d46d4fb","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇳🇴NO-🇳🇴NO_3079 |25.77Mb","server":"ss.pl.sshmax.net","type":"ss","country":"🇳🇴NO","port":1443,"password":"M1LCZAlfz1bV","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_ |29.29Mb","server":"193.29.106.197","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |12.37Mb","server":"91.90.123.155","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":" |14.67Mb","server":"80.85.156.31","type":"ss","country":"🇷🇺RU","port":37705,"password":"xiaodongyoutuber","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_ |34.38Mb","server":"89.187.163.215","type":"ss","country":"🇸🇬SG","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4002 |21.79Mb","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |19.84Mb","server":"143.244.60.164","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |10.38Mb","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.06Mb","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |19.83Mb","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |24.66Mb","server":"199.58.187.13","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |10.46Mb","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":31757,"password":"wj7nDCuNARchSeKNCN8VFK62","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |12.93Mb","server":"23.82.11.49","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.62Mb","server":"84.17.35.78","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |19.68Mb","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.28Mb","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |17.36Mb","server":"148.72.169.213","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |17.85Mb","server":"143.244.42.71","type":"ss","country":"🇺🇸US","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":" |15.21Mb","server":"66.55.148.42","type":"ss","country":"🇺🇸US","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":" |35.93Mb","server":"193.9.114.34","type":"ss","country":"🇧🇪BE","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_ |27.49Mb","server":"ssr4.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Relay_ |25.96Mb","server":"ssr5.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Pool_ |19.77Mb","server":"45.134.224.15","type":"ss","country":"🇩🇪DE","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":" |33.37Mb","server":"51.195.62.220","type":"ss","country":"🇫🇷FR","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_ |211.10Mb","server":"ss.fr.sshmax.net","type":"ss","country":"🇫🇷FR","port":1443,"password":"6nhHHuGHw2D5","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_ |78.51Mb","server":"ss.uk.sshmax.net","type":"ss","country":"🇫🇷FR","port":1443,"password":"JSvsHhHYIuVG","cipher":"chacha20-ietf-poly1305"}
-- {"name":" |33.53Mb","server":"51.195.62.220","type":"ss","country":"🇫🇷FR","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_ |20.89Mb","server":"185.38.150.124","type":"ss","country":"🇬🇧GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |18.24Mb","server":"185.44.76.188","type":"ss","country":"🇬🇧GB","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |59.17Mb","server":"185.44.76.188","type":"ss","country":"🇬🇧GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.08Mb","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.81Mb","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |30.88Mb","server":"85.10.50.164","type":"ss","country":"🇭🇷HR","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |39.88Mb","server":"85.10.50.164","type":"ss","country":"🇭🇷HR","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Relay_ |33.10Mb","server":"ss.linn.ink","type":"ss","country":"🇯🇵JP","port":20040,"password":"39341fe7-b8b7-4605-a811-af1f1d46d4fb","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_ |48.02Mb","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |20.69Mb","server":"89.46.223.239","type":"ss","country":"🇳🇱NL","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Relay_ |36.35Mb","server":"ss.pl.sshmax.net","type":"ss","country":"🇳🇴NO","port":1443,"password":"M1LCZAlfz1bV","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_ |20.76Mb","server":"91.90.123.155","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_1787 |18.27Mb","server":"139.28.176.53","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇷🇺RU_1860 |12.27Mb","server":"80.85.156.31","type":"ss","country":"🇷🇺RU","port":37705,"password":"xiaodongyoutuber","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_ |21.42Mb","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |45.64Mb","server":"91.90.121.163","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |28.45Mb","server":"193.29.106.197","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |15.74Mb","server":"104.200.131.165","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |151.30Mb","server":"143.244.60.164","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |84.52Mb","server":"199.58.187.13","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |20.04Mb","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |23.82Mb","server":"143.244.42.71","type":"ss","country":"🇺🇸US","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |73.87Mb","server":"148.72.169.213","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |14.84Mb","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |30.08Mb","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_2373 |38.63Mb","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.07Mb","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |15.61Mb","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":" |53.31Mb","server":"66.55.148.42","type":"ss","country":"🇺🇸US","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇺🇸US_2434 |15.92Mb","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |84.81Mb","server":"84.17.35.78","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |11.84Mb","server":"23.82.11.49","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |20.68Mb","server":"23.82.11.49","type":"ss","country":"🇺🇸US","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |13.82Mb","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":31757,"password":"wj7nDCuNARchSeKNCN8VFK62","cipher":"aes-256-gcm"}
-- {"name":"Pool_ |31.97Mb","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Relay_ |13.29Mb","server":"daling.ink","type":"ss","country":"🇺🇸US","port":20040,"password":"39341fe7-b8b7-4605-a811-af1f1d46d4fb","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇯🇵JP-🇺🇸US_54","server":"ss.linn.ink","type":"ss","country":"🇯🇵JP","port":20040,"password":"39341fe7-b8b7-4605-a811-af1f1d46d4fb","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇸🇬SG_84","server":"89.187.163.215","type":"ss","country":"🇸🇬SG","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_91","server":"143.244.42.71","type":"ss","country":"🇺🇸US","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_33","server":"ss.fr.sshmax.net","type":"ss","country":"🇫🇷FR","port":1443,"password":"6nhHHuGHw2D5","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇬🇧GB_40","server":"185.38.150.124","type":"ss","country":"🇬🇧GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇳🇴NO-🇳🇴NO_72","server":"ss.pl.sshmax.net","type":"ss","country":"🇳🇴NO","port":1443,"password":"M1LCZAlfz1bV","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇮🇳IN_52","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇬🇧GB_39","server":"185.44.76.188","type":"ss","country":"🇬🇧GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇳IN_51","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_98","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇳IN_53","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_77","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇬🇧GB_38","server":"185.44.76.188","type":"ss","country":"🇬🇧GB","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_100","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_103","server":"104.200.131.165","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇳🇴NO_71","server":"146.59.3.33","type":"ss","country":"🇳🇴NO","port":1443,"password":"M1LCZAlfz1bV","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇺🇸US_89","server":"143.244.60.164","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_99","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_120","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":31757,"password":"wj7nDCuNARchSeKNCN8VFK62","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_121","server":"148.72.169.213","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_97","server":"23.82.11.49","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_102","server":"23.82.11.49","type":"ss","country":"🇺🇸US","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_06","server":"ss4.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_13","server":"ssr4.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_07","server":"ss3.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_12","server":"ssr3.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Pool_🇺🇸US_95","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_112","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_30","server":"ss.uk.sshmax.net","type":"ss","country":"🇫🇷FR","port":1443,"password":"JSvsHhHYIuVG","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇺🇸US_114","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷FR_32","server":"51.195.149.30","type":"ss","country":"🇫🇷FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇭🇷HR_47","server":"85.10.50.164","type":"ss","country":"🇭🇷HR","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇭🇷HR_48","server":"85.10.50.164","type":"ss","country":"🇭🇷HR","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_10","server":"ssr1.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_08","server":"ss1.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_09","server":"ss5.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_34","server":"ss.uk.sshmax.net","type":"ss","country":"🇫🇷FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇷🇴RO_75","server":"91.90.121.163","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_79","server":"193.29.106.197","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_92","server":"84.17.35.78","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_29","server":"ss.de.sshmax.net","type":"ss","country":"🇫🇷FR","port":21474,"password":"cWv8FcJk0VpS","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_31","server":"ss.de.sshmax.net","type":"ss","country":"🇫🇷FR","port":21474,"password":"HgCMlgbtQMxl","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇺🇸US-🇺🇸US_115","server":"ss.us.sshmax.net","type":"ss","country":"🇺🇸US","port":1443,"password":"T3j6elRwEuA4","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇩🇪DE_26","server":"45.134.224.15","type":"ss","country":"🇩🇪DE","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇺🇸US-🇺🇸US_106","server":"ss.us.sshmax.net","type":"ss","country":"🇺🇸US","port":57478,"password":"syCiJl3nb8OD","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇷🇺RU-🇷🇺RU_80","server":"ss.ru.sshmax.net","type":"ss","country":"🇷🇺RU","port":1443,"password":"KACUGSkPS3FG","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇮🇩ID_49","server":"103.93.56.151","type":"ss","country":"🇮🇩ID","port":57478,"password":"ku382YXK8cLE","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇮🇩ID-🇮🇩ID_50","server":"ss.id.sshmax.net","type":"ss","country":"🇮🇩ID","port":57478,"password":"ku382YXK8cLE","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_14","server":"ssr5.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇧🇪BE_456","server":"193.9.114.34","type":"ss","country":"🇧🇪BE","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇨🇦CA_529","server":"208.78.41.198","type":"ss","country":"🇨🇦CA","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_525","server":"ss4.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_566","server":"ssr5.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_526","server":"ss3.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_562","server":"ssr4.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_563","server":"ssr3.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_527","server":"ss1.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"🇨🇦CA_552","server":"51.79.64.57","type":"ss","country":"🇨🇦CA","port":1443,"password":"r4TeEt5bK0UD","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_560","server":"ss.ca.sshmax.net","type":"ss","country":"🇨🇦CA","port":1443,"password":"r4TeEt5bK0UD","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_557","server":"ss5.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_565","server":"ssr1.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Pool_🇨🇾CY_726","server":"195.47.194.42","type":"ss","country":"🇨🇾CY","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇨🇾CY_720","server":"195.47.194.42","type":"ss","country":"🇨🇾CY","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇨🇾CY_724","server":"195.47.194.42","type":"ss","country":"🇨🇾CY","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇨🇾CY_736","server":"195.47.194.42","type":"ss","country":"🇨🇾CY","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇨🇾CY_727","server":"195.47.194.42","type":"ss","country":"🇨🇾CY","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"🇩🇪DE_797","server":"78.47.91.90","type":"ss","country":"🇩🇪DE","port":36352,"password":"JUZTvwqCdJYW","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇩🇪DE-🇩🇪DE_796","server":"78.47.219.86","type":"ss","country":"🇩🇪DE","port":35139,"password":"vcFINAQlgqZZ","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇩🇪DE_795","server":"45.134.224.15","type":"ss","country":"🇩🇪DE","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇩🇪DE_802","server":"45.134.224.15","type":"ss","country":"🇩🇪DE","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇩🇪DE_916","server":"78.47.94.207","type":"ss","country":"🇩🇪DE","port":35139,"password":"vcFINAQlgqZZ","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_1307","server":"ss.uk.sshmax.net","type":"ss","country":"🇫🇷FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_1310","server":"ss.de.sshmax.net","type":"ss","country":"🇫🇷FR","port":21474,"password":"cWv8FcJk0VpS","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇫🇷FR_1345","server":"51.89.99.59","type":"ss","country":"🇫🇷FR","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇫🇷FR_1402","server":"51.195.62.220","type":"ss","country":"🇫🇷FR","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇫🇷FR_1448","server":"51.195.118.69","type":"ss","country":"🇫🇷FR","port":21474,"password":"cWv8FcJk0VpS","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇫🇷FR_1442","server":"51.75.141.238","type":"ss","country":"🇫🇷FR","port":1443,"password":"6nhHHuGHw2D5","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_1513","server":"ss.fr.sshmax.net","type":"ss","country":"🇫🇷FR","port":1443,"password":"6nhHHuGHw2D5","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇫🇷FR_1574","server":"51.195.62.220","type":"ss","country":"🇫🇷FR","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇫🇷FR_1490","server":"51.195.149.30","type":"ss","country":"🇫🇷FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_1512","server":"ss.de.sshmax.net","type":"ss","country":"🇫🇷FR","port":21474,"password":"HgCMlgbtQMxl","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇭🇰HK_1928","server":"18.162.168.190","type":"ss","country":"🇭🇰HK","port":20040,"password":"39341fe7-b8b7-4605-a811-af1f1d46d4fb","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇬🇧GB_1817","server":"185.38.150.124","type":"ss","country":"🇬🇧GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇬🇧GB_1802","server":"185.44.76.188","type":"ss","country":"🇬🇧GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇬🇧GB_1844","server":"185.44.76.188","type":"ss","country":"🇬🇧GB","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"🇭🇰HK_1936","server":"47.240.46.71","type":"ss","country":"🇭🇰HK","port":444,"password":"aliskrskr","cipher":"aes-256-cfb"}
-- {"name":"Pool_🇭🇰HK_1971","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-- {"name":"🇭🇰HK_1975","server":"118.107.244.113","type":"ss","country":"🇭🇰HK","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇭🇷HR_2011","server":"85.10.50.164","type":"ss","country":"🇭🇷HR","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇭🇷HR_2015","server":"85.10.50.164","type":"ss","country":"🇭🇷HR","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇮🇩ID_2076","server":"103.93.56.151","type":"ss","country":"🇮🇩ID","port":57478,"password":"ku382YXK8cLE","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇮🇩ID-🇮🇩ID_2077","server":"ss.id.sshmax.net","type":"ss","country":"🇮🇩ID","port":57478,"password":"ku382YXK8cLE","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇮🇳IN_2157","server":"165.231.253.165","type":"ss","country":"🇮🇳IN","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇳IN_2197","server":"165.231.253.165","type":"ss","country":"🇮🇳IN","port":37473,"password":"enctdKyJfSu76VqznKwTt6Ap","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇳IN_2200","server":"165.231.253.165","type":"ss","country":"🇮🇳IN","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇳IN_2206","server":"165.231.253.165","type":"ss","country":"🇮🇳IN","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇳IN_2201","server":"165.231.253.165","type":"ss","country":"🇮🇳IN","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇳IN_2239","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇳IN_2240","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇳IN_2199","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇭🇰HK-🇺🇸US_1933","server":"ss.linn.ink","type":"ss","country":"🇭🇰HK","port":20040,"password":"39341fe7-b8b7-4605-a811-af1f1d46d4fb","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇮🇹IT_2287","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2288","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2295","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2305","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":49396,"password":"BdRWC38L5JUDMTYNNxJGcUwB","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2337","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2289","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2294","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2297","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2296","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2298","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":34687,"password":"txmK9WhwP6WPhP7hqSBLVxpN","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2299","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2300","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2301","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2302","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2303","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2304","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2307","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2306","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2354","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇹IT_2355","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":45746,"password":"wEsFcHCvbL4eJkL4DZQa7RgR","cipher":"aes-256-gcm"}
-- {"name":"🇯🇵JP_2430","server":"45.66.134.210","type":"ss","country":"🇯🇵JP","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇳🇱NL-🇳🇱NL_2796","server":"nl1.hiout.me","type":"ss","country":"🇳🇱NL","port":36402,"password":"qLVVsktJzWpi","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇳🇴NO-🇳🇴NO_2930","server":"ss.pl.sshmax.net","type":"ss","country":"🇳🇴NO","port":1443,"password":"M1LCZAlfz1bV","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇳🇴NO_2904","server":"146.59.3.33","type":"ss","country":"🇳🇴NO","port":1443,"password":"M1LCZAlfz1bV","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇷🇴RO_3140","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3130","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3198","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3135","server":"91.90.123.155","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3195","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3197","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3194","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3143","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3139","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3141","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3200","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3199","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3196","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3138","server":"139.28.176.53","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3149","server":"91.90.121.163","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3151","server":"193.29.106.197","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3205","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3206","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3204","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇸🇬SG_3480","server":"89.187.163.215","type":"ss","country":"🇸🇬SG","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_3409","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4050","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4194","server":"84.17.35.78","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4355","server":"104.200.131.165","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4405","server":"143.244.60.164","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4412","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4516","server":"143.244.42.71","type":"ss","country":"🇺🇸US","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4476","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":32558,"password":"gJYzm3TLbdL495ryQptaJXQk","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4498","server":"23.82.11.49","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4509","server":"23.82.11.49","type":"ss","country":"🇺🇸US","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4446","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸US_4505","server":"51.81.35.164","type":"ss","country":"🇺🇸US","port":57478,"password":"syCiJl3nb8OD","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇺🇸US_4724","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇺🇸US-🇺🇸US_4670","server":"ss.us.sshmax.net","type":"ss","country":"🇺🇸US","port":1443,"password":"T3j6elRwEuA4","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇺🇸US_4729","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4870","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4830","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4805","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4794","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇺🇸US-🇺🇸US_4788","server":"ss.us.sshmax.net","type":"ss","country":"🇺🇸US","port":57478,"password":"syCiJl3nb8OD","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇺🇸US_4776","server":"199.58.187.13","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4918","server":"148.72.169.213","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_4897","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸US_4903","server":"66.55.148.42","type":"ss","country":"🇺🇸US","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇬🇧 GB_142","server":"185.38.150.124","type":"ss","country":"🇬🇧 GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇬🇧 GB_169","server":"185.44.76.188","type":"ss","country":"🇬🇧 GB","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"🇬🇧 GB_148","server":"185.44.76.188","type":"ss","country":"🇬🇧 GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇨🇦 CA_23","server":"ssr4.ssrsub.one","type":"ssr","country":"🇨🇦 CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇨🇦 CA_18","server":"ss3.ssrsub.one","type":"ss","country":"🇨🇦 CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"🇨🇦 CA_20","server":"ss4.ssrsub.one","type":"ss","country":"🇨🇦 CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"🇨🇦 CA_22","server":"ssr3.ssrsub.one","type":"ssr","country":"🇨🇦 CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇫🇷 FR_123","server":"51.195.149.30","type":"ss","country":"🇫🇷 FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇫🇷 FR_122","server":"ss.uk.sshmax.net","type":"ss","country":"🇫🇷 FR","port":1443,"password":"JSvsHhHYIuVG","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇫🇷 FR_133","server":"ss.uk.sshmax.net","type":"ss","country":"🇫🇷 FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇨🇦 CA_21","server":"ss5.ssrsub.one","type":"ss","country":"🇨🇦 CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"🇨🇦 CA_25","server":"ssr1.ssrsub.one","type":"ssr","country":"🇨🇦 CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇨🇦 CA_17","server":"ss1.ssrsub.one","type":"ss","country":"🇨🇦 CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"🇨🇦 CA_24","server":"ssr5.ssrsub.one","type":"ssr","country":"🇨🇦 CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇭🇷 HR_186","server":"85.10.50.164","type":"ss","country":"🇭🇷 HR","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇭🇷 HR_189","server":"85.10.50.164","type":"ss","country":"🇭🇷 HR","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷 FR_124","server":"ss.de.sshmax.net","type":"ss","country":"🇫🇷 FR","port":21474,"password":"cWv8FcJk0VpS","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇫🇷 FR_117","server":"ss.de.sshmax.net","type":"ss","country":"🇫🇷 FR","port":21474,"password":"HgCMlgbtQMxl","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇩🇪 DE_67","server":"45.134.224.15","type":"ss","country":"🇩🇪 DE","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"🇮🇩 ID_193","server":"ss.id.sshmax.net","type":"ss","country":"🇮🇩 ID","port":57478,"password":"ku382YXK8cLE","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇮🇩 ID_192","server":"103.93.56.151","type":"ss","country":"🇮🇩 ID","port":57478,"password":"ku382YXK8cLE","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇸🇬 SG_297","server":"89.187.163.215","type":"ss","country":"🇸🇬 SG","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇳🇱 NL_230","server":"89.46.223.239","type":"ss","country":"🇳🇱 NL","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇮🇳 IN_197","server":"137.59.52.107","type":"ss","country":"🇮🇳 IN","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇮🇳 IN_199","server":"137.59.52.107","type":"ss","country":"🇮🇳 IN","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇮🇳 IN_196","server":"137.59.52.107","type":"ss","country":"🇮🇳 IN","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇷🇴 RO_257","server":"91.90.123.155","type":"ss","country":"🇷🇴 RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇷🇴 RO_254","server":"91.90.123.115","type":"ss","country":"🇷🇴 RO","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_319","server":"23.82.11.49","type":"ss","country":"🇺🇸 US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇷🇴 RO_269","server":"91.90.121.163","type":"ss","country":"🇷🇴 RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_351","server":"84.17.35.78","type":"ss","country":"🇺🇸 US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇷🇴 RO_260","server":"193.29.106.197","type":"ss","country":"🇷🇴 RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇷🇴 RO_270","server":"139.28.176.53","type":"ss","country":"🇷🇴 RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇮🇹 IT_201","server":"82.102.26.117","type":"ss","country":"🇮🇹 IT","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_310","server":"ss.us.sshmax.net","type":"ss","country":"🇺🇸 US","port":57478,"password":"syCiJl3nb8OD","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇺🇸 US_395","server":"143.244.42.71","type":"ss","country":"🇺🇸 US","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_436","server":"212.102.44.83","type":"ss","country":"🇺🇸 US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_462","server":"212.102.44.83","type":"ss","country":"🇺🇸 US","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_384","server":"198.147.22.87","type":"ss","country":"🇺🇸 US","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_451","server":"212.102.44.83","type":"ss","country":"🇺🇸 US","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_472","server":"212.102.44.83","type":"ss","country":"🇺🇸 US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_461","server":"212.102.44.83","type":"ss","country":"🇺🇸 US","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_465","server":"104.200.131.165","type":"ss","country":"🇺🇸 US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_452","server":"198.147.22.87","type":"ss","country":"🇺🇸 US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_464","server":"198.147.22.87","type":"ss","country":"🇺🇸 US","port":31757,"password":"wj7nDCuNARchSeKNCN8VFK62","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_414","server":"23.82.11.49","type":"ss","country":"🇺🇸 US","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_466","server":"143.244.60.164","type":"ss","country":"🇺🇸 US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_427","server":"207.244.67.149","type":"ss","country":"🇺🇸 US","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"🇸🇬 SG_296","server":"ss.linn.ink","type":"ss","country":"🇸🇬 SG","port":20040,"password":"39341fe7-b8b7-4605-a811-af1f1d46d4fb","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇸🇬SG_63","server":"89.187.163.215","type":"ss","country":"🇸🇬SG","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_72","server":"143.244.42.71","type":"ss","country":"🇺🇸US","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷FR_30","server":"51.195.149.30","type":"ss","country":"🇫🇷FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_28","server":"ss.fr.sshmax.net","type":"ss","country":"🇫🇷FR","port":1443,"password":"6nhHHuGHw2D5","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_29","server":"ss.uk.sshmax.net","type":"ss","country":"🇫🇷FR","port":1443,"password":"JSvsHhHYIuVG","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_27","server":"ss.uk.sshmax.net","type":"ss","country":"🇫🇷FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇬🇧GB_35","server":"185.38.150.124","type":"ss","country":"🇬🇧GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇬🇧GB_32","server":"185.44.76.188","type":"ss","country":"🇬🇧GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇬🇧GB_33","server":"185.44.76.188","type":"ss","country":"🇬🇧GB","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇳IN_43","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇮🇳IN_41","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_77","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_80","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_81","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_76","server":"212.102.44.83","type":"ss","country":"🇺🇸US","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇳🇱NL_48","server":"89.46.223.239","type":"ss","country":"🇳🇱NL","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_69","server":"148.72.169.213","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_11","server":"ssr5.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Pool_🇮🇳IN_42","server":"137.59.52.107","type":"ss","country":"🇮🇳IN","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_66","server":"23.82.11.49","type":"ss","country":"🇺🇸US","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_68","server":"143.244.60.164","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_73","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_85","server":"104.200.131.165","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_89","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":31757,"password":"wj7nDCuNARchSeKNCN8VFK62","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_14","server":"ssr3.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_08","server":"ss4.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_10","server":"ssr4.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Pool_🇺🇸US_74","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_79","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_82","server":"23.82.11.49","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_60","server":"91.90.123.155","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇭🇷HR_39","server":"85.10.50.164","type":"ss","country":"🇭🇷HR","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇭🇷HR_38","server":"85.10.50.164","type":"ss","country":"🇭🇷HR","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇺🇸US-🇺🇸US_70","server":"ss.us.sshmax.net","type":"ss","country":"🇺🇸US","port":57478,"password":"syCiJl3nb8OD","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_06","server":"ss1.ssrsub.one","type":"ss","country":"🇨🇦CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"Relay_🇨🇦CA-🇨🇦CA_15","server":"ssr1.ssrsub.one","type":"ssr","country":"🇨🇦CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"Relay_🇺🇸US-🇺🇸US_83","server":"ss.us.sshmax.net","type":"ss","country":"🇺🇸US","port":1443,"password":"T3j6elRwEuA4","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇷🇴RO_57","server":"91.90.121.163","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇺🇸US_88","server":"84.17.35.78","type":"ss","country":"🇺🇸US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"Pool_🇷🇴RO_58","server":"139.28.176.53","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇫🇷FR-🇫🇷FR_26","server":"ss.de.sshmax.net","type":"ss","country":"🇫🇷FR","port":21474,"password":"cWv8FcJk0VpS","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇷🇴RO_59","server":"193.29.106.197","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇮🇩ID-🇮🇩ID_40","server":"ss.id.sshmax.net","type":"ss","country":"🇮🇩ID","port":57478,"password":"ku382YXK8cLE","cipher":"chacha20-ietf-poly1305"}
-- {"name":"Pool_🇩🇪DE_24","server":"45.134.224.15","type":"ss","country":"🇩🇪DE","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"Relay_🇺🇸US-🇺🇸US_71","server":"ss.linn.ink","type":"ss","country":"🇺🇸US","port":20040,"password":"39341fe7-b8b7-4605-a811-af1f1d46d4fb","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇨🇦 CA_01","server":"ss3.ssrsub.one","type":"ss","country":"🇨🇦 CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"🇸🇬 SG_43","server":"89.187.163.215","type":"ss","country":"🇸🇬 SG","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_50","server":"143.244.42.71","type":"ss","country":"🇺🇸 US","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇬🇧 GB_26","server":"185.38.150.124","type":"ss","country":"🇬🇧 GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷 FR_22","server":"ss.uk.sshmax.net","type":"ss","country":"🇫🇷 FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇫🇷 FR_20","server":"51.195.149.30","type":"ss","country":"🇫🇷 FR","port":57478,"password":"HgVDIN05O6bH","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇳🇱 NL_33","server":"89.46.223.239","type":"ss","country":"🇳🇱 NL","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_47","server":"212.102.44.83","type":"ss","country":"🇺🇸 US","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇬🇧 GB_24","server":"185.44.76.188","type":"ss","country":"🇬🇧 GB","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇬🇧 GB_25","server":"185.44.76.188","type":"ss","country":"🇬🇧 GB","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷 FR_21","server":"ss.uk.sshmax.net","type":"ss","country":"🇫🇷 FR","port":1443,"password":"JSvsHhHYIuVG","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇮🇳 IN_32","server":"137.59.52.107","type":"ss","country":"🇮🇳 IN","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_57","server":"148.72.169.213","type":"ss","country":"🇺🇸 US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇮🇳 IN_31","server":"137.59.52.107","type":"ss","country":"🇮🇳 IN","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_59","server":"212.102.44.83","type":"ss","country":"🇺🇸 US","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"🇮🇳 IN_30","server":"137.59.52.107","type":"ss","country":"🇮🇳 IN","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_45","server":"198.147.22.87","type":"ss","country":"🇺🇸 US","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"🇷🇴 RO_38","server":"91.90.123.115","type":"ss","country":"🇷🇴 RO","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_46","server":"198.147.22.87","type":"ss","country":"🇺🇸 US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_56","server":"143.244.60.164","type":"ss","country":"🇺🇸 US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_60","server":"198.147.22.87","type":"ss","country":"🇺🇸 US","port":31757,"password":"wj7nDCuNARchSeKNCN8VFK62","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_52","server":"23.82.11.49","type":"ss","country":"🇺🇸 US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇷🇴 RO_36","server":"91.90.123.155","type":"ss","country":"🇷🇴 RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇷🇺 RU_40","server":"80.85.156.31","type":"ss","country":"🇷🇺 RU","port":37705,"password":"xiaodongyoutuber","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇨🇦 CA_07","server":"ssr4.ssrsub.one","type":"ssr","country":"🇨🇦 CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇺🇸 US_48","server":"207.244.67.149","type":"ss","country":"🇺🇸 US","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_51","server":"23.82.11.49","type":"ss","country":"🇺🇸 US","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_58","server":"207.244.67.149","type":"ss","country":"🇺🇸 US","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"🇨🇦 CA_05","server":"ssr3.ssrsub.one","type":"ssr","country":"🇨🇦 CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇺🇸 US_49","server":"207.244.67.149","type":"ss","country":"🇺🇸 US","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇭🇷 HR_28","server":"85.10.50.164","type":"ss","country":"🇭🇷 HR","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷 FR_19","server":"ss.de.sshmax.net","type":"ss","country":"🇫🇷 FR","port":21474,"password":"HgCMlgbtQMxl","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇨🇦 CA_04","server":"ss1.ssrsub.one","type":"ss","country":"🇨🇦 CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"🇨🇦 CA_06","server":"ssr1.ssrsub.one","type":"ssr","country":"🇨🇦 CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇫🇷 FR_23","server":"ss.de.sshmax.net","type":"ss","country":"🇫🇷 FR","port":21474,"password":"cWv8FcJk0VpS","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇨🇦 CA_08","server":"ssr5.ssrsub.one","type":"ssr","country":"🇨🇦 CA","port":57481,"password":"https://dlj.tf/ssrsub","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"t.me/SSRSUB","obfs":"plain"}
-- {"name":"🇭🇷 HR_27","server":"85.10.50.164","type":"ss","country":"🇭🇷 HR","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_54","server":"ss.us.sshmax.net","type":"ss","country":"🇺🇸 US","port":57478,"password":"syCiJl3nb8OD","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇺🇸 US_55","server":"ss.us.sshmax.net","type":"ss","country":"🇺🇸 US","port":1443,"password":"T3j6elRwEuA4","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇷🇴 RO_35","server":"139.28.176.53","type":"ss","country":"🇷🇴 RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇷🇴 RO_39","server":"91.90.121.163","type":"ss","country":"🇷🇴 RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_53","server":"84.17.35.78","type":"ss","country":"🇺🇸 US","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇷🇴 RO_37","server":"193.29.106.197","type":"ss","country":"🇷🇴 RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇩🇪 DE_17","server":"45.134.224.15","type":"ss","country":"🇩🇪 DE","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"🇮🇩 ID_29","server":"103.93.56.151","type":"ss","country":"🇮🇩 ID","port":57478,"password":"ku382YXK8cLE","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇨🇦 CA_02","server":"ss5.ssrsub.one","type":"ss","country":"🇨🇦 CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
-- {"name":"🇨🇦 CA_03","server":"ss4.ssrsub.one","type":"ss","country":"🇨🇦 CA","port":5443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
+- {"name":"Pool_ |23.35Mb","server":"82.102.26.117","type":"ss","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
+- {"name":"Pool__238 |26.52Mb","server":"82.102.26.117","type":"ss","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |22.46Mb","server":"212.102.44.81","type":"ss","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |21.10Mb","server":"143.244.60.164","type":"ss","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |17.95Mb","server":"84.17.35.78","type":"ss","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |19.86Mb","server":"138.199.42.153","type":"ss","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |21.45Mb","server":"138.199.42.157","type":"ss","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |30.94Mb","server":"138.199.16.140","type":"ss","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |29.46Mb","server":"138.199.16.137","type":"ss","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":" |15.16Mb","server":"193.9.114.34","type":"ss","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Pool_ |17.64Mb","server":"37.19.211.77","type":"ss","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |16.74Mb","server":"37.19.211.72","type":"ss","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US |24.22Mb","server":"198.8.92.84","type":"ss","country":"🇺🇸US","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US |23.21Mb","server":"198.8.92.84","type":"ss","country":"🇺🇸US","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ |17.98Mb","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ |18.31Mb","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ |16.93Mb","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
+- {"name":"🏁 ZZ_62 |60.72Mb","server":"138.199.16.140","type":"ss","country":"🏁 ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"🏁 ZZ_63 |60.66Mb","server":"138.199.16.137","type":"ss","country":"🏁 ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |36.14Mb","server":"85.10.50.164","type":"ss","country":"🇭🇷HR","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |19.96Mb","server":"89.46.223.239","type":"ss","country":"🇳🇱NL","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |43.18Mb","server":"138.199.16.137","type":"ss","country":"🏁ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |44.19Mb","server":"138.199.16.140","type":"ss","country":"🏁ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |241.74Mb","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |261.74Mb","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"Pool_ |234.22Mb","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
+- {"name":"Relay_🇨🇦CA-🇨🇦CA_05","server":"ss3.ssrsub.one","type":"ss","country":"🇨🇦CA","port":6443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
+- {"name":"Pool_🏁ZZ_193","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇭🇷HR_49","server":"85.10.50.164","type":"ss","country":"🇭🇷HR","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_192","server":"138.199.16.140","type":"ss","country":"🏁ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"🇧🇪BE_448","server":"193.9.114.34","type":"ss","country":"🇧🇪BE","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇧🇪BE_449","server":"193.9.114.34","type":"ss","country":"🇧🇪BE","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇧🇪BE_447","server":"193.9.114.34","type":"ss","country":"🇧🇪BE","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Relay_🇨🇦CA-🇨🇦CA_596","server":"ss3.ssrsub.one","type":"ss","country":"🇨🇦CA","port":6443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
+- {"name":"Relay_🇭🇰HK-🇭🇰HK_2190","server":"www.freeyule.ml","type":"ssr","country":"🇭🇰HK","port":8388,"password":"tg@freeyule!","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"Pool_🇭🇷HR_2218","server":"85.10.50.164","type":"ss","country":"🇭🇷HR","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇮🇹IT_2477","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇮🇹IT_2478","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇮🇹IT_2546","server":"84.17.58.134","type":"ss","country":"🇮🇹IT","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇮🇹IT_2559","server":"212.102.54.175","type":"ss","country":"🇮🇹IT","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇮🇹IT_2561","server":"212.102.54.137","type":"ss","country":"🇮🇹IT","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇮🇹IT_2576","server":"82.102.26.117","type":"ss","country":"🇮🇹IT","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3495","server":"91.245.254.93","type":"ss","country":"🇷🇴RO","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3448","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3449","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3450","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":34687,"password":"txmK9WhwP6WPhP7hqSBLVxpN","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3540","server":"91.90.123.155","type":"ss","country":"🇷🇴RO","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3566","server":"89.37.95.173","type":"ss","country":"🇷🇴RO","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3732","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3772","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3782","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3774","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3771","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3773","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇷🇴RO_3781","server":"91.90.123.115","type":"ss","country":"🇷🇴RO","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
+- {"name":"Relay_🇷🇺RU-🇷🇺RU_3940","server":"ss.ru.sshmax.net","type":"ss","country":"🇷🇺RU","port":57478,"password":"QDDRsUq0FPi9","cipher":"chacha20-ietf-poly1305"}
+- {"name":"Pool_🇺🇦UA_4195","server":"37.19.211.112","type":"ss","country":"🇺🇦UA","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇦UA_4196","server":"37.19.211.12","type":"ss","country":"🇺🇦UA","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇦UA_4207","server":"37.19.211.32","type":"ss","country":"🇺🇦UA","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇦UA_4237","server":"37.19.211.104","type":"ss","country":"🇺🇦UA","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇦UA_4225","server":"37.19.211.77","type":"ss","country":"🇺🇦UA","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇦UA_4192","server":"37.19.211.114","type":"ss","country":"🇺🇦UA","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇦UA_4216","server":"37.19.211.52","type":"ss","country":"🇺🇦UA","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇦UA_4224","server":"37.19.211.74","type":"ss","country":"🇺🇦UA","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇦UA_4220","server":"37.19.211.72","type":"ss","country":"🇺🇦UA","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5303","server":"143.244.42.96","type":"ss","country":"🇺🇸US","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5306","server":"143.244.42.71","type":"ss","country":"🇺🇸US","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5304","server":"143.244.42.81","type":"ss","country":"🇺🇸US","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5246","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5473","server":"198.8.92.84","type":"ss","country":"🇺🇸US","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5464","server":"198.8.92.84","type":"ss","country":"🇺🇸US","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5392","server":"143.244.60.164","type":"ss","country":"🇺🇸US","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5476","server":"207.244.125.132","type":"ss","country":"🇺🇸US","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5512","server":"207.244.67.149","type":"ss","country":"🇺🇸US","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5509","server":"23.82.11.49","type":"ss","country":"🇺🇸US","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5496","server":"84.17.35.78","type":"ss","country":"🇺🇸US","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🇺🇸US_5495","server":"84.17.35.86","type":"ss","country":"🇺🇸US","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5896","server":"138.199.42.157","type":"ss","country":"🏁ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5894","server":"138.199.42.153","type":"ss","country":"🏁ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5778","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5779","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5855","server":"138.199.16.140","type":"ss","country":"🏁ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5776","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5854","server":"138.199.16.137","type":"ss","country":"🏁ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5807","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5808","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5777","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5925","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5926","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
+- {"name":"Pool_🏁ZZ_5933","server":"138.199.40.169","type":"ss","country":"🏁ZZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
+- {"name":"🏁 ZZ_546","server":"138.199.40.169","type":"ss","country":"🏁 ZZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
+- {"name":"🏁 ZZ_537","server":"138.199.40.169","type":"ss","country":"🏁 ZZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
+- {"name":"🏁 ZZ_538","server":"138.199.40.169","type":"ss","country":"🏁 ZZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"🏁 ZZ_539","server":"138.199.16.140","type":"ss","country":"🏁 ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Relay_-🇺🇸US_01","server":"117.28.243.253","type":"ssr","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"plain","obfs-param":"WWW.YOUNEED.WIN"}
+- {"name":"Relay_-🇺🇸US_02","server":"117.28.243.253","type":"ssr","port":8333,"password":"passfw2xs4e!","cipher":"rc4-md5","protocol":"origin","obfs":"plain"}
+- {"name":"Pool_🏁ZZ_113","server":"138.199.16.137","type":"ss","country":"🏁ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"Relay_🇨🇦CA-🇨🇦CA_04","server":"ss3.ssrsub.one","type":"ss","country":"🇨🇦CA","port":6443,"password":"suo.yt/ssrsub","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"n46hm52773.wns.windows.com","mode":"tls"}}
+- {"name":"Pool_🏁ZZ_114","server":"138.199.16.140","type":"ss","country":"🏁ZZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
