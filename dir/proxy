@@ -1,2 +1,7 @@
 proxies:
-- {"name":"🇺🇸 US_149 |121.20Mb","server":"156.146.38.163","type":"ss","country":"🇺🇸 US","port":443,"password":"shadowsocks","cipher":"aes-128-cfb"}
+- {"name":"🇬🇧GB_05","server":"212.102.53.197","type":"ss","country":"🇬🇧GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"🇬🇧GB_06","server":"212.102.53.78","type":"ss","country":"🇬🇧GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"🇷🇴RO_08","server":"185.126.116.125","type":"ss","country":"🇷🇴RO","port":9060,"password":"ueLXVkvh4hckhErQ","cipher":"aes-256-cfb"}
+- {"name":"🇷🇴RO_09","server":"185.126.116.125","type":"ss","country":"🇷🇴RO","port":9026,"password":"QWDDvVE9npNurQfA","cipher":"aes-256-cfb"}
+- {"name":"🇺🇸US_11","server":"156.146.38.163","type":"ss","country":"🇺🇸US","port":443,"password":"shadowsocks","cipher":"aes-128-cfb"}
+- {"name":"🇺🇸 US_149 |122.08Mb","server":"156.146.38.163","type":"ss","country":"🇺🇸 US","port":443,"password":"shadowsocks","cipher":"aes-128-cfb"}
