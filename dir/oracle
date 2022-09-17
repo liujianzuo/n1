@@ -1,2 +1,2 @@
 proxies:
-  - {name: 43.143.172.187_7000, server: 43.143.172.187, port: 7000, type: vmess, uuid: c7ef64c0-7b85-4db0-a705-15206baf1f9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 173.82.145.85_7000, server: 173.82.145.85, port: 7000, type: vmess, uuid: c7ef64c0-7b85-4db0-a705-15206baf1f9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
