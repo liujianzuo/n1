@@ -1,5 +1,0 @@
-proxies:
-  - {"name": "12312412", "server": "104.20.126.242", "port": 443, "type": "vmess", "uuid": "ad806487-2d26-4636-98b6-ab85cc8521f7", "alterId": 0, "cipher": "auto", "tls": true, "network": "ws", "ws-path": "/", ws-headers: {"Host": "weathered-rice-88d6.liujianzuo.workers.dev"}}
-  - {"name": "heroku", "server": "104.20.10.198", "port": 443, "type": "vmess", "uuid": "ad806487-2d26-4636-98b6-ab85cc8521f7", "alterId": 0, "cipher": "auto", "tls": true, "network": "ws", "ws-path": "/", ws-headers: {"Host": "steep-bonus-bedd.liujianzuo.workers.dev"}}
-  - {"name": "heroku-clone", "server": "104.20.10.67", "port": 443, "type": "vmess", "uuid": "ad806487-2d26-4636-98b6-ab85cc8521f7", "alterId": 64, "cipher": "auto", "tls": true, "network": "ws", "ws-path": "/", ws-headers: {"Host": "tight-wildflower-c0f8.liujianzuo.workers.dev"}}
-  - {"name": "sdfasfsadf", "server": "104.24.147.217", "port": 443, "type": "vmess", "uuid": "6df4fc96-6cc1-40cd-affc-d8cda7604fef", "alterId": 64, "cipher": "auto", "tls": true, "network": "ws", "ws-path": "/", ws-headers: {"Host": "morning-rice-8477.liujianzuo.workers.dev"}}
