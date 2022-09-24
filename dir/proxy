@@ -1,30 +1,29 @@
 proxies:
-- {"name":"🇫🇷 FR_19 |42.94Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷 FR_20","server":"195.154.200.150","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷 FR_24 |43.82Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷 FR_21 |44.15Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷 FR_22","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷 FR_23","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"🇬🇧 GB_27 |68.79Mb","server":"212.102.53.194","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"🇬🇧 GB_28 |71.19Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"🇬🇧 GB_29 |33.64Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧 GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇷🇺 RU_52 |61.93Mb","server":"79.133.109.56","type":"ss","country":"🇷🇺 RU","port":1036,"password":")1N1E6v0SU_rGTpg","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇬🇧 GB_31 |78.56Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"🇱🇹 LT_45 |28.74Mb","server":"213.183.53.222","type":"ss","country":"🇱🇹 LT","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
-- {"name":"🇺🇸 US_65 |14.22Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"🇬🇧 GB_30 |72.32Mb","server":"212.102.53.81","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"🇺🇸 US_63 |37.77Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_62 |37.30Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_61 |30.12Mb","server":"38.91.102.74","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_66 |60.27Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸 US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_67 |18.12Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_70 |52.04Mb","server":"167.88.63.79","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_73 |16.07Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_68 |21.23Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_78 |15.23Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_79 |156.49Mb","server":"156.146.38.163","type":"ss","country":"🇺🇸 US","port":443,"password":"shadowsocks","cipher":"aes-128-cfb"}
-- {"name":"🇺🇸 US_80 | 9.77Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"🏁 ZZ_124 |60.06Mb","server":"134.195.196.149","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_76 | 8.63Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_77 |18.33Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
-- {"name":"🏁 ZZ_125 |31.75Mb","server":"169.197.143.232","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_23","server":"195.154.200.150","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_24","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_25","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_26 |42.94Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_27 |44.15Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_28 |43.82Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷 FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_29 |72.32Mb","server":"212.102.53.81","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"🇬🇧 GB_30 |33.64Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧 GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇬🇧 GB_31 |68.79Mb","server":"212.102.53.194","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"🇬🇧 GB_32 |71.19Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"🇱🇹 LT_41 |28.74Mb","server":"213.183.53.222","type":"ss","country":"🇱🇹 LT","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
+- {"name":"🇷🇺 RU_49 |61.93Mb","server":"79.133.109.56","type":"ss","country":"🇷🇺 RU","port":1036,"password":")1N1E6v0SU_rGTpg","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_56 | 8.63Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_67 |14.22Mb","server":"38.68.135.18","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_72 |52.04Mb","server":"167.88.63.79","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🏁 ZZ_119 |31.75Mb","server":"169.197.143.232","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_68 |60.27Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸 US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_57 |156.49Mb","server":"156.146.38.163","type":"ss","country":"🇺🇸 US","port":443,"password":"shadowsocks","cipher":"aes-128-cfb"}
+- {"name":"🇺🇸 US_58 | 9.77Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_64 |37.30Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸 US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_65 |16.07Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_66 |18.12Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_69 |18.33Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_70 |21.23Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_62 |15.23Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_73 |30.12Mb","server":"38.91.102.74","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_74 |37.77Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🏁 ZZ_117 |60.06Mb","server":"134.195.196.149","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
