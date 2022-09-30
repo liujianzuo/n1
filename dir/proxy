@@ -1,21 +1,21 @@
 proxies:
-- {"name":"🇫🇷 FR_151","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷 FR_152","server":"195.154.200.150","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-- {"name":"🇫🇷 FR_153","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"🇬🇧 GB_156 |24.45Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧 GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇬🇧 GB_157 |64.91Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"🇬🇧 GB_158 |55.79Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"🇺🇸 US_219 |28.79Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_220 |15.18Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_222 |14.23Mb","server":"167.88.63.79","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_226 |18.55Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_223 |32.02Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_227 | 8.69Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_230 |40.45Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_232 |45.82Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_233 |21.01Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_234 | 8.98Mb","server":"38.114.114.19","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_236 |10.16Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸 US","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
-- {"name":"🏁 ZZ_302 |16.47Mb","server":"169.197.141.14","type":"ss","country":"🏁 ZZ","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
-- {"name":"🏁 ZZ_303 |57.19Mb","server":"134.195.196.149","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
-- {"name":"🇯🇵 JP_171 |33.08Mb","server":"jp.securevpn.cc","type":"ss","country":"🇯🇵 JP","port":20020,"password":"200000000000000000000020","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"TIB2ehlN1U.download.windowsupdate.com,449bff3663.douyincdn.com","mode":"http"}}
+- {"name":"🇫🇷 FR_206","server":"195.154.200.150","type":"ss","country":"🇫🇷 FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_209","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇫🇷 FR_208","server":"149.202.82.172","type":"ss","country":"🇫🇷 FR","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇬🇧 GB_212 |55.79Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"🇬🇧 GB_213 |64.91Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"🇬🇧 GB_214 |24.45Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧 GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸 US_278 |18.55Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_277 |21.01Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_274 |15.18Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_273 |40.45Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_279 |32.02Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_280 | 8.98Mb","server":"38.114.114.19","type":"ss","country":"🇺🇸 US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_281 | 8.69Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_283 |28.79Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸 US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_284 |45.82Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_285 |14.23Mb","server":"167.88.63.79","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇺🇸 US_287 |10.16Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸 US","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🏁 ZZ_349 |57.19Mb","server":"134.195.196.149","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🏁 ZZ_350 |16.47Mb","server":"169.197.141.14","type":"ss","country":"🏁 ZZ","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵 JP_226 |33.08Mb","server":"jp.securevpn.cc","type":"ss","country":"🇯🇵 JP","port":20020,"password":"200000000000000000000020","cipher":"aes-128-gcm","plugin":"obfs","plugin-opts":{"host":"TIB2ehlN1U.download.windowsupdate.com,449bff3663.douyincdn.com","mode":"http"}}
