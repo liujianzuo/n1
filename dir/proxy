@@ -1,1 +1,2 @@
 proxies:
+- {"name":"🇯🇵JP_08","server":"52.197.66.243","type":"ss","country":"🇯🇵JP","port":443,"password":"amazonskr05","cipher":"aes-256-cfb"}
