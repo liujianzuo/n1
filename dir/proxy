@@ -1,2 +1,1 @@
 proxies:
-- {"name":"🇺🇸 US_37","server":"154.17.25.101","type":"ss","country":"🇺🇸 US","port":41447,"password":"26746912","cipher":"aes-256-gcm"}
