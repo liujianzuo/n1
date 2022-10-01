@@ -1,1 +1,2 @@
 proxies:
+- {"name":"🇷🇺 RU_56 | 8.43Mb","server":"mf01.xmss.vip","type":"ss","country":"🇷🇺 RU","port":18888,"password":"35b0f578-8961-4a2b-99a1-db9555e522e4","cipher":"chacha20-ietf-poly1305"}
