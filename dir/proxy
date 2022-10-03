@@ -1,1 +1,2 @@
 proxies:
+- {"name":"🇺🇦 UA_45 |15.03Mb","server":"mf01.xmss.vip","type":"ss","country":"🇺🇦 UA","port":18888,"password":"5595f1cf-d7c0-4121-a3bf-19e423c1f9a1","cipher":"chacha20-ietf-poly1305"}
