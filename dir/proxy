@@ -2,9 +2,3 @@ proxies:
 - {"name":"_01","server":"169.197.141.5","type":"ss","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"🇺🇸US_27","server":"20.210.122.21","type":"ss","country":"🇺🇸US","port":443,"password":"233blog.com","cipher":"aes-256-gcm"}
 - {"name":"🏁ZZ_41","server":"169.197.141.14","type":"ss","country":"🏁ZZ","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸 US_86 |31.71Mb","server":"20.210.122.21","type":"ss","country":"🇺🇸 US","port":443,"password":"233blog.com","cipher":"aes-256-gcm"}
-- {"name":"🇨🇦 CA_08 |11.62Mb","server":"51.79.177.159","type":"ss","country":"🇨🇦 CA","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
-- {"name":"🇺🇦 UA_58 |35.46Mb","server":"mf01.xmss.vip","type":"ss","country":"🇺🇦 UA","port":18888,"password":"5595f1cf-d7c0-4121-a3bf-19e423c1f9a1","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🏁 ZZ_131 |58.86Mb","server":"169.197.141.5","type":"ss","country":"🏁 ZZ","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"🏁 ZZ_135 |56.94Mb","server":"169.197.141.14","type":"ss","country":"🏁 ZZ","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
-- {"name":"🏁 ZZ_134 |24.86Mb","server":"169.197.141.14","type":"ss","country":"🏁 ZZ","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
