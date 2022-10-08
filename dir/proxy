@@ -1,3 +1,2 @@
 proxies:
-- {"name":"🇺🇸US_119 |342.37Mb","server":"5.181.234.254","type":"ss","country":"🇺🇸US","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇩🇪DE_43 |19.51Mb","server":"93.186.201.158","type":"ss","country":"🇩🇪DE","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇺🇸US_134 |329.54Mb","server":"5.181.234.254","type":"ss","country":"🇺🇸US","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
