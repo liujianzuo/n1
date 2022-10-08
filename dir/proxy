@@ -1,1 +1,2 @@
 proxies:
+- {"name":"_28","server":"14.29.124.168","type":"ss","port":24006,"udp":true,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
