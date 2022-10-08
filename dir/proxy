@@ -1,1 +1,2 @@
 proxies:
+- {"name":"🇺🇸US_03","server":"165.232.169.142","type":"ss","country":"🇺🇸US","port":29332,"password":"1e5111699c45496da84112f35db665c4","cipher":"aes-256-cfb"}
