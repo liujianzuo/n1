@@ -1,6 +1,1 @@
 proxies:
-- {"name":"🇬🇧GB_04","server":"212.102.53.78","type":"ss","country":"🇬🇧GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"🇭🇰HK_67 |28.22Mb","server":"xmssmf02.xmss.vip","type":"ss","country":"🇭🇰HK","port":17777,"password":"10657658-502a-42fd-97fd-1e08f538e13d","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇺🇸US_149 |91.82Mb","server":"198.181.56.163","type":"ss","country":"🇺🇸US","port":238,"password":"bwhskrskr05","cipher":"aes-256-cfb"}
-- {"name":"🇷🇺RU_93 |40.70Mb","server":"185.4.65.6","type":"ss","country":"🇷🇺RU","port":21247,"password":"vDS9G2p","cipher":"aes-256-cfb"}
-- {"name":"🇲🇽MX_79 |16.40Mb","server":"191.96.145.108","type":"ss","country":"🇲🇽MX","port":50000,"password":"3135771619","cipher":"aes-256-cfb"}
