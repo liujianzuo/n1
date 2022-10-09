@@ -1,4 +1,3 @@
 proxies:
-- {"name":"🇬🇧GB_06","server":"212.102.53.194","type":"ss","country":"🇬🇧GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
 - {"name":"🇺🇸US_15","server":"165.232.169.142","type":"ss","country":"🇺🇸US","port":29332,"password":"1e5111699c45496da84112f35db665c4","cipher":"aes-256-cfb"}
 - {"name":"🇬🇧GB_07","server":"212.102.53.78","type":"ss","country":"🇬🇧GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
