@@ -1,2 +1,1 @@
 proxies:
-- {"name":"🇬🇧GB_06","server":"212.102.53.78","type":"ss","country":"🇬🇧GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
