@@ -1,3 +1,1 @@
 proxies:
-- {"name":"🏁ZZ_199 | 8.84Mb","server":"hk-v2.superyuluo.top","type":"ss","country":"🏁ZZ","port":1031,"password":"7b30dbe2-5fd9-4f87-a733-facef379632b","cipher":"chacha20-ietf-poly1305"}
-- {"name":"🇬🇧GB_72 |68.74Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
