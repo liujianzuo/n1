@@ -2,6 +2,6 @@ proxies:
   - {name: 233v2.com_173.82.145.85, server: 173.82.145.85, port: 7000, type: vmess, uuid: 6dbce869-1d4a-4190-b603-1ef4c1353a94, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 233v2.com_141.148.152.202, server:  173.82.145.85, port: 7001, type: vmess, uuid: b4b2cd1c-82e2-4ea6-98b1-44e896a9f329, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 233v2.com_129.146.125.68, server: 173.82.145.85, port: 7002, type: vmess, uuid: f746e88a-862f-40b0-ae25-3e026e835504, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 233v2.com_173.82.145.85, server: 43.143.172.187, port: 7000, type: vmess, uuid: 6dbce869-1d4a-4190-b603-1ef4c1353a94, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 233v2.com_141.148.152.202, server:  43.143.172.187, port: 7001, type: vmess, uuid: b4b2cd1c-82e2-4ea6-98b1-44e896a9f329, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
-  - {name: 233v2.com_129.146.125.68, server: 43.143.172.187, port: 7002, type: vmess, uuid: f746e88a-862f-40b0-ae25-3e026e835504, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 233v2.com_173.82.145.85_v2, server: 43.143.172.187, port: 7000, type: vmess, uuid: 6dbce869-1d4a-4190-b603-1ef4c1353a94, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 233v2.com_141.148.152.202_v2, server:  43.143.172.187, port: 7001, type: vmess, uuid: b4b2cd1c-82e2-4ea6-98b1-44e896a9f329, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 233v2.com_129.146.125.68_v2, server: 43.143.172.187, port: 7002, type: vmess, uuid: f746e88a-862f-40b0-ae25-3e026e835504, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
